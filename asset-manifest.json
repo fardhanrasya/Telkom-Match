@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fardhanrasya/Telkom-Match/static/css/main.44388b32.css",
+    "main.js": "/fardhanrasya/Telkom-Match/static/js/main.6c61cdca.js",
+    "index.html": "/fardhanrasya/Telkom-Match/index.html",
+    "main.44388b32.css.map": "/fardhanrasya/Telkom-Match/static/css/main.44388b32.css.map",
+    "main.6c61cdca.js.map": "/fardhanrasya/Telkom-Match/static/js/main.6c61cdca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44388b32.css",
+    "static/js/main.6c61cdca.js"
+  ]
+}
